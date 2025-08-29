@@ -1,0 +1,4 @@
+com\example\webhooksql\WebhookRequest.class
+com\example\webhooksql\WebhookSqlAppApplication.class
+com\example\webhooksql\SqlDebugController.class
+com\example\webhooksql\StartupService.class
